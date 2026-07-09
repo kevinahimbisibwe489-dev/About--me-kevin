@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ahimbisibwe Kevin | BIT Student & Designer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Ahimbisibwe Kevin</h1>
+    <p>Bachelor of Information Technology | Bishop Stuart University</p>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="projects.html">Projects</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Hi, I'm Kevin 👋</h2>
+    <p>I design websites, multimedia ads, and tech solutions for students and businesses in Mbarara.</p>
+    <a href="projects.html" class="btn">View My Work</a>
+  </section>
+
+  <footer>
+    <p>© 2026 Ahimbisibwe Kevin | BSU</p>
+  </footer>
+</body>
+</html>
